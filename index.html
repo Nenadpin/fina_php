@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fina Pozamanterija</title>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <div class="modal" id="modal">
+      <div class="info"><h1>Molim sacekajte, podaci se upisuju...</h1></div>
+    </div>
+    <div class="nav-header">
+      <ul>
+        <li id="promet">Promet
+          <div class="submenu1">
+            <ul>
+              <li onclick="loadData()">Učitavanje</li>
+              <li><a href='prodaja.html'>Ručni unos</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href='nabavka.html'>Nabavka</a></li>
+        <li><a href='nivelacija.html'>Nivelacija</a></li>
+        <li id="pregled">
+          Pregled
+          <div class="submenu">
+            <ul>
+              <li id="products">Proizvoda</li>
+              <li><a href="pregled.html?route=prodaje">Prodaje</a></li>
+              <li><a href="pregled.html?route=nabavke">Nabavke</a></li>
+              <li><a href="pregled.html?route=nivelacija">Nivelacija</a></li>
+              <li><a href="pregled.html?route=refund">Refundacija</a></li>
+              <hr/>
+              <li><a href="pregled.html?route=artikla">Artikla</a></li>           
+          </div>
+        </li>
+        <li><a href="trgovacka.html?route=trgovacka">Trgovacka</a></li>
+      </ul>
+    </div>
+    <input id="bulk" accept=".json" type="file" />
+    <div id="operation" class="prod-list">
+      <div class="promet">
+      <input
+        id="prodId"
+        type="text"
+        placeholder="id..."
+        autoFocus
+      ></input>
+      <input
+        id="prodName"
+        type="text"
+        placeholder="naziv..."
+      ></input>
+      <input
+        id="prodPrice"
+        type="text"
+        placeholder="cena..."
+      ></input>
+      <input
+        id="prodQty"
+        type="text"
+        placeholder="lager..."
+      ></input>
+    </div>
+      <pre id="list"></pre>
+      <button class="block-btn" id="upload" onclick="uploadData()">Pošalji</button>
+      <hr/>
+      <p> Ukupna vrednost robe: <span id="total"></span> din</p>
+    </div>
+    <script src="./js/modules.js"></script>
+    <script src="./js/software.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1537 @@
+{
+  "1": {
+    "naziv": "BAMBI D.CARAPA 2-6",
+    "prodajna_cena": 105,
+    "lager": 8
+  },
+  "2": {
+    "naziv": "BAMBI D.CARAPA 8-12                ",
+    "prodajna_cena": 125,
+    "lager": 6
+  },
+  "19": {
+    "naziv": "TINA H.HOP                         ",
+    "prodajna_cena": 380,
+    "lager": 28
+  },
+  "23": {
+    "naziv": "BAMBI NAZUVAK 8-14                 ",
+    "prodajna_cena": 110,
+    "lager": 10
+  },
+  "35": {
+    "naziv": "D.SOKNA NIKOL 14-16                ",
+    "prodajna_cena": 140,
+    "lager": 30
+  },
+  "50": {
+    "naziv": "DECIJA SOKNA 4-6                   ",
+    "prodajna_cena": 130,
+    "lager": 36
+  },
+  "71": {
+    "naziv": "ZENSKA I OMLADINSKA SOKNA 12-14    ",
+    "prodajna_cena": 150,
+    "lager": 53
+  },
+  "78": {
+    "naziv": "MEN SOFT MUSKA CARAPA              ",
+    "prodajna_cena": 200,
+    "lager": 7
+  },
+  "182": {
+    "naziv": "MUSKA CARAPA ELEGANCE              ",
+    "prodajna_cena": 180,
+    "lager": 77
+  },
+  "217": {
+    "naziv": "sportska carapa                    ",
+    "prodajna_cena": 140,
+    "lager": 36
+  },
+  "275": {
+    "naziv": "BEBI CARAPA                        ",
+    "prodajna_cena": 110,
+    "lager": 11
+  },
+  "282": {
+    "naziv": "Z.MAJICA USKA.BRAT                 ",
+    "prodajna_cena": 500,
+    "lager": 25
+  },
+  "317": {
+    "naziv": "D.M.PIZAMA S 12-14                 ",
+    "prodajna_cena": 1670,
+    "lager": 1
+  },
+  "500": {
+    "naziv": "ZEN.CARAPE HALTER                  ",
+    "prodajna_cena": 150,
+    "lager": 4
+  },
+  "511": {
+    "naziv": "TERMO BAMBI 2-6                    ",
+    "prodajna_cena": 175,
+    "lager": 7
+  },
+  "667": {
+    "naziv": "ZEN.MAJICA AIDA",
+    "prodajna_cena": 570,
+    "lager": 1
+  },
+  "687": {
+    "naziv": "ZENSKA MAJICA 203069               ",
+    "prodajna_cena": 795,
+    "lager": 4
+  },
+  "707": {
+    "naziv": "D.M.BOXERICE CLASSIC 12-14         ",
+    "prodajna_cena": 240,
+    "lager": 1
+  },
+  "711": {
+    "naziv": "decja sokna                        ",
+    "prodajna_cena": 90,
+    "lager": 5
+  },
+  "747": {
+    "naziv": "ZENSKA MAJICA SARA",
+    "prodajna_cena": 680,
+    "lager": 1
+  },
+  "1005": {
+    "naziv": "ZENSKA MAJICA 203067",
+    "prodajna_cena": 740,
+    "lager": 2
+  },
+  "1036": {
+    "naziv": "D.M.PIZAMA 12-14",
+    "prodajna_cena": 1035,
+    "lager": 1
+  },
+  "1042": {
+    "naziv": "Z.MAJICA CAMAC EMA                 ",
+    "prodajna_cena": 1110,
+    "lager": 1
+  },
+  "1066": {
+    "naziv": "Z.PIZAMA 2338                      ",
+    "prodajna_cena": 2060,
+    "lager": 4
+  },
+  "1104": {
+    "naziv": "Z.MAJICA                           ",
+    "prodajna_cena": 1050,
+    "lager": 1
+  },
+  "1161": {
+    "naziv": "ZENSKI H.HOP SA DEZENOM",
+    "prodajna_cena": 430,
+    "lager": 2
+  },
+  "1181": {
+    "naziv": "Z.HULA HOP VERONA",
+    "prodajna_cena": 250,
+    "lager": 5
+  },
+  "1182": {
+    "naziv": "ZEN H.HOP MONA",
+    "prodajna_cena": 315,
+    "lager": 6
+  },
+  "1185": {
+    "naziv": "Z.HULAHOP VERONA NOVA",
+    "prodajna_cena": 280,
+    "lager": 2
+  },
+  "1186": {
+    "naziv": "Z.helanke                          ",
+    "prodajna_cena": 750,
+    "lager": 3
+  },
+  "1214": {
+    "naziv": "D.M.PIZAMA 4-6                     ",
+    "prodajna_cena": 1630,
+    "lager": 1
+  },
+  "1216": {
+    "naziv": "D.Z.PIZAMA 12-14                   ",
+    "prodajna_cena": 1670,
+    "lager": 1
+  },
+  "1237": {
+    "naziv": "Z.SPAVACICA 2340                   ",
+    "prodajna_cena": 1440,
+    "lager": 3
+  },
+  "1241": {
+    "naziv": "D.Z.PIZAMA 12-14                   ",
+    "prodajna_cena": 1720,
+    "lager": 1
+  },
+  "1246": {
+    "naziv": "Z.PIZAMA                           ",
+    "prodajna_cena": 2360,
+    "lager": 1
+  },
+  "1254": {
+    "naziv": "D.M.PIZAMA 2                       ",
+    "prodajna_cena": 1050,
+    "lager": 1
+  },
+  "1265": {
+    "naziv": "z/majica                           ",
+    "prodajna_cena": 610,
+    "lager": 1
+  },
+  "1282": {
+    "naziv": "D.PIZAMA 12-14                     ",
+    "prodajna_cena": 750,
+    "lager": 1
+  },
+  "1292": {
+    "naziv": "D.Z.PIZAMA 12-14                   ",
+    "prodajna_cena": 1220,
+    "lager": 2
+  },
+  "1309": {
+    "naziv": "ZENSKI H.HOP 30D                   ",
+    "prodajna_cena": 290,
+    "lager": 61
+  },
+  "1327": {
+    "naziv": "ZENSKA MAJICA TEA",
+    "prodajna_cena": 510,
+    "lager": 1
+  },
+  "1368": {
+    "naziv": "D.MUS.BEBI DOL 8-10",
+    "prodajna_cena": 750,
+    "lager": 1
+  },
+  "1403": {
+    "naziv": "ZENSKI SLIP TEA                    ",
+    "prodajna_cena": 410,
+    "lager": 13
+  },
+  "1405": {
+    "naziv": "MUSKA MAJICA",
+    "prodajna_cena": 430,
+    "lager": 1
+  },
+  "1412": {
+    "naziv": "D.M.PIZAMA 2                       ",
+    "prodajna_cena": 975,
+    "lager": 1
+  },
+  "1417": {
+    "naziv": "ZENSKI SLIP                        ",
+    "prodajna_cena": 320,
+    "lager": 8
+  },
+  "1447": {
+    "naziv": "DEC.PIZAMA 2-4-6                   ",
+    "prodajna_cena": 1400,
+    "lager": 1
+  },
+  "1451": {
+    "naziv": "MUSKA DECIJA PIDZAMA               ",
+    "prodajna_cena": 1250,
+    "lager": 1
+  },
+  "1484": {
+    "naziv": "D.Z.PIZAMA 2                       ",
+    "prodajna_cena": 910,
+    "lager": 1
+  },
+  "1511": {
+    "naziv": "DIANA H-HOP. 40DEN                 ",
+    "prodajna_cena": 520,
+    "lager": 6
+  },
+  "1546": {
+    "naziv": "Z.MAJICA 203033",
+    "prodajna_cena": 700,
+    "lager": 1
+  },
+  "1548": {
+    "naziv": "Z.MAJICA 203038                    ",
+    "prodajna_cena": 1220,
+    "lager": 2
+  },
+  "1551": {
+    "naziv": "Z.BODY 207022                      ",
+    "prodajna_cena": 400,
+    "lager": 9
+  },
+  "1552": {
+    "naziv": "Z.ROLKA 209020",
+    "prodajna_cena": 750,
+    "lager": 1
+  },
+  "1556": {
+    "naziv": "ZENSKA PIDZAMA                     ",
+    "prodajna_cena": 2430,
+    "lager": 1
+  },
+  "1569": {
+    "naziv": "BADE MANTILI                       ",
+    "prodajna_cena": 2500,
+    "lager": 2
+  },
+  "1585": {
+    "naziv": "Z.MAJICA  4558                     ",
+    "prodajna_cena": 1250,
+    "lager": 1
+  },
+  "1627": {
+    "naziv": "ZENSKE PIDZAME                     ",
+    "prodajna_cena": 2360,
+    "lager": 1
+  },
+  "1630": {
+    "naziv": "ZENSKE PIDZAME                     ",
+    "prodajna_cena": 2270,
+    "lager": 4
+  },
+  "1638": {
+    "naziv": "Z.MAJICA 203046                    ",
+    "prodajna_cena": 1020,
+    "lager": 2
+  },
+  "1641": {
+    "naziv": "Z.SPAVACICA 205021                 ",
+    "prodajna_cena": 1345,
+    "lager": 3
+  },
+  "1651": {
+    "naziv": "Z.PIDZAMA 208025                   ",
+    "prodajna_cena": 2210,
+    "lager": 1
+  },
+  "1663": {
+    "naziv": "Z.HALJINA 1115                     ",
+    "prodajna_cena": 2160,
+    "lager": 2
+  },
+  "1664": {
+    "naziv": "D.BEBI DOL 2-6 2569                ",
+    "prodajna_cena": 710,
+    "lager": 1
+  },
+  "1678": {
+    "naziv": "Z.SPAVACICA ELIZA                  ",
+    "prodajna_cena": 1540,
+    "lager": 2
+  },
+  "1679": {
+    "naziv": "ZENSKI BABY DOLL BRENA",
+    "prodajna_cena": 880,
+    "lager": 1
+  },
+  "1695": {
+    "naziv": "D.Z.SLIP 3/1 4-6 5481              ",
+    "prodajna_cena": 930,
+    "lager": 4
+  },
+  "1771": {
+    "naziv": "z.spavacica 2220                   ",
+    "prodajna_cena": 1530,
+    "lager": 1
+  },
+  "1783": {
+    "naziv": "Z.PIZAMA 2245                      ",
+    "prodajna_cena": 2390,
+    "lager": 4
+  },
+  "1833": {
+    "naziv": "Z.MAJICA 203050",
+    "prodajna_cena": 680,
+    "lager": 3
+  },
+  "1834": {
+    "naziv": "z.majica                           ",
+    "prodajna_cena": 760,
+    "lager": 1
+  },
+  "1843": {
+    "naziv": "Z.OGRTAC 2382                      ",
+    "prodajna_cena": 2710,
+    "lager": 2
+  },
+  "1844": {
+    "naziv": "Z.PIZAMA 2381                      ",
+    "prodajna_cena": 1750,
+    "lager": 1
+  },
+  "1859": {
+    "naziv": "D.M.BOX 3/1 8-10 5475",
+    "prodajna_cena": 840,
+    "lager": 1
+  },
+  "1911": {
+    "naziv": "Z.SLIP 3/1                         ",
+    "prodajna_cena": 1200,
+    "lager": 4
+  },
+  "1917": {
+    "naziv": "Z.SPAVACICA 2214                   ",
+    "prodajna_cena": 1790,
+    "lager": 4
+  },
+  "1936": {
+    "naziv": "Z.MAJICA VIOLETA D.RUKAV           ",
+    "prodajna_cena": 520,
+    "lager": 4
+  },
+  "1939": {
+    "naziv": "Z.ROLKA 2347                       ",
+    "prodajna_cena": 705,
+    "lager": 1
+  },
+  "1943": {
+    "naziv": "Z.SPAVACICA 205 023                ",
+    "prodajna_cena": 1330,
+    "lager": 2
+  },
+  "1944": {
+    "naziv": "Z.SPAVACICA 205 024                ",
+    "prodajna_cena": 1360,
+    "lager": 1
+  },
+  "1961": {
+    "naziv": "LEVANTE MODA II                    ",
+    "prodajna_cena": 750,
+    "lager": 3
+  },
+  "1964": {
+    "naziv": "M.DONJI DEO PIZAME                 ",
+    "prodajna_cena": 710,
+    "lager": 1
+  },
+  "1965": {
+    "naziv": "M.D.VES 104020                     ",
+    "prodajna_cena": 1620,
+    "lager": 1
+  },
+  "1966": {
+    "naziv": "Z.PIDZAMA 208 028                  ",
+    "prodajna_cena": 2210,
+    "lager": 1
+  },
+  "1968": {
+    "naziv": "Z.SPAVACICA 2391                   ",
+    "prodajna_cena": 1270,
+    "lager": 1
+  },
+  "1985": {
+    "naziv": "M.PIZAMA 3959                      ",
+    "prodajna_cena": 1950,
+    "lager": 2
+  },
+  "2055": {
+    "naziv": "Z.MAJICA 4592                      ",
+    "prodajna_cena": 890,
+    "lager": 1
+  },
+  "2070": {
+    "naziv": "Z.MAJICA KETI 667                  ",
+    "prodajna_cena": 580,
+    "lager": 2
+  },
+  "2086": {
+    "naziv": "Z.SPAVACICA 2401                   ",
+    "prodajna_cena": 1330,
+    "lager": 1
+  },
+  "2166": {
+    "naziv": "M.PIDZAMA 1158                     ",
+    "prodajna_cena": 2490,
+    "lager": 1
+  },
+  "2167": {
+    "naziv": "Z.MAJICA SIROKA BRATELA            ",
+    "prodajna_cena": 520,
+    "lager": 6
+  },
+  "2263": {
+    "naziv": "BADE MANTIL ZENSKI 830             ",
+    "prodajna_cena": 2800,
+    "lager": 1
+  },
+  "2281": {
+    "naziv": "Z.SPAVACICA 2364                   ",
+    "prodajna_cena": 1000,
+    "lager": 3
+  },
+  "2287": {
+    "naziv": "D.Z.PIZAMA 2 5571                  ",
+    "prodajna_cena": 1300,
+    "lager": 1
+  },
+  "2304": {
+    "naziv": "Z.BADE MANTIL 5158                 ",
+    "prodajna_cena": 1680,
+    "lager": 6
+  },
+  "2384": {
+    "naziv": "ZENSKA SPAVACICA 205028",
+    "prodajna_cena": 1200,
+    "lager": 1
+  },
+  "2452": {
+    "naziv": "M.PIDZAMA 1205                     ",
+    "prodajna_cena": 2040,
+    "lager": 2
+  },
+  "2471": {
+    "naziv": "D.M.PIZAMA 12-14 5586              ",
+    "prodajna_cena": 1790,
+    "lager": 1
+  },
+  "2488": {
+    "naziv": "Z.D.DEO CIBZAR                     ",
+    "prodajna_cena": 1640,
+    "lager": 1
+  },
+  "2534": {
+    "naziv": "Z.PIZAMA 2439                      ",
+    "prodajna_cena": 2180,
+    "lager": 2
+  },
+  "2535": {
+    "naziv": "Z.SPAVACICA 2444                   ",
+    "prodajna_cena": 1590,
+    "lager": 23
+  },
+  "2562": {
+    "naziv": "Z.SLIP 2432                        ",
+    "prodajna_cena": 420,
+    "lager": 5
+  },
+  "2621": {
+    "naziv": "Z.BADE MANTIL 5161                 ",
+    "prodajna_cena": 1980,
+    "lager": 5
+  },
+  "2623": {
+    "naziv": "Z.SPAVACICA 1224                   ",
+    "prodajna_cena": 950,
+    "lager": 2
+  },
+  "2640": {
+    "naziv": "D.Z.PIZAMA 2                       ",
+    "prodajna_cena": 1040,
+    "lager": 1
+  },
+  "2695": {
+    "naziv": "M.MAJICA 100013",
+    "prodajna_cena": 930,
+    "lager": 1
+  },
+  "2697": {
+    "naziv": "M.MAJICA 100017",
+    "prodajna_cena": 1050,
+    "lager": 2
+  },
+  "2699": {
+    "naziv": "M.PIZAMA 3978                      ",
+    "prodajna_cena": 2150,
+    "lager": 3
+  },
+  "2700": {
+    "naziv": "M.PIZAMA 3978                      ",
+    "prodajna_cena": 3100,
+    "lager": 2
+  },
+  "2701": {
+    "naziv": "M.PIZAMA 3977                      ",
+    "prodajna_cena": 2300,
+    "lager": 1
+  },
+  "2704": {
+    "naziv": "D.M.PIZAMA 2-6 2730                ",
+    "prodajna_cena": 900,
+    "lager": 2
+  },
+  "2720": {
+    "naziv": "D.M.BEBI DOL 2-6 2736              ",
+    "prodajna_cena": 550,
+    "lager": 1
+  },
+  "2721": {
+    "naziv": "D.M.BEBI DOL 8-10 2736",
+    "prodajna_cena": 940,
+    "lager": 1
+  },
+  "2725": {
+    "naziv": "D.Z.BEBI DOL 2-6 2737",
+    "prodajna_cena": 600,
+    "lager": 1
+  },
+  "2748": {
+    "naziv": "Z.PIZAMA 70245                     ",
+    "prodajna_cena": 1800,
+    "lager": 4
+  },
+  "2751": {
+    "naziv": "z.slip tropak                      ",
+    "prodajna_cena": 1150,
+    "lager": 5
+  },
+  "2765": {
+    "naziv": "Z.MAJICA 200011",
+    "prodajna_cena": 370,
+    "lager": 1
+  },
+  "2889": {
+    "naziv": "M.MAJICA 100018",
+    "prodajna_cena": 970,
+    "lager": 2
+  },
+  "2970": {
+    "naziv": "Z.BADE MANTIL                      ",
+    "prodajna_cena": 4350,
+    "lager": 1
+  },
+  "2973": {
+    "naziv": "D.M.PIZAMA 2-6 3077                ",
+    "prodajna_cena": 1860,
+    "lager": 1
+  },
+  "3002": {
+    "naziv": "Z.MAJICA 2237                      ",
+    "prodajna_cena": 1130,
+    "lager": 2
+  },
+  "3025": {
+    "naziv": "D.M.PIZAMA 12-14 5599              ",
+    "prodajna_cena": 1990,
+    "lager": 2
+  },
+  "3065": {
+    "naziv": "Z.PIDZAMA-D.DEO 217019",
+    "prodajna_cena": 1150,
+    "lager": 2
+  },
+  "3078": {
+    "naziv": "D.Z.PIZAMA EMILI 2-4               ",
+    "prodajna_cena": 980,
+    "lager": 1
+  },
+  "3081": {
+    "naziv": "D.Z.PIZAMA 2 7908                  ",
+    "prodajna_cena": 1390,
+    "lager": 1
+  },
+  "3103": {
+    "naziv": "Z.BADE MANTIL",
+    "prodajna_cena": 1800,
+    "lager": 2
+  },
+  "3123": {
+    "naziv": "Z.TROPAK SLIP TO201                ",
+    "prodajna_cena": 1080,
+    "lager": 2
+  },
+  "3128": {
+    "naziv": "Z.TRENER.D.DEO RANF.8024",
+    "prodajna_cena": 1030,
+    "lager": 1
+  },
+  "3168": {
+    "naziv": "Z.BADE MANTIL 5170                 ",
+    "prodajna_cena": 1680,
+    "lager": 2
+  },
+  "3190": {
+    "naziv": "Z.BODI MAJICA D.RUKAV              ",
+    "prodajna_cena": 640,
+    "lager": 2
+  },
+  "3198": {
+    "naziv": "M.D.DEO PIZAMA                     ",
+    "prodajna_cena": 1340,
+    "lager": 7
+  },
+  "3222": {
+    "naziv": "D.Z.SLIP 3/1 12-14 5481            ",
+    "prodajna_cena": 990,
+    "lager": 2
+  },
+  "3234": {
+    "naziv": "Z.SPAVACICA 1036                   ",
+    "prodajna_cena": 1430,
+    "lager": 1
+  },
+  "3236": {
+    "naziv": "M.PIZAMA 241                       ",
+    "prodajna_cena": 2170,
+    "lager": 1
+  },
+  "3275": {
+    "naziv": "Z.BADE MANTIL 723                  ",
+    "prodajna_cena": 1580,
+    "lager": 3
+  },
+  "3286": {
+    "naziv": "Z.PIZAMA 70252                     ",
+    "prodajna_cena": 2320,
+    "lager": 1
+  },
+  "3296": {
+    "naziv": "D.Z.PIZAMA 8-10                    ",
+    "prodajna_cena": 1890,
+    "lager": 1
+  },
+  "3298": {
+    "naziv": "D.Z.PIZAMA 16                      ",
+    "prodajna_cena": 2360,
+    "lager": 1
+  },
+  "3320": {
+    "naziv": "M.PIZAMA 241",
+    "prodajna_cena": 1890,
+    "lager": 1
+  },
+  "3344": {
+    "naziv": "D.Z.PIZAMA 2 4671                  ",
+    "prodajna_cena": 740,
+    "lager": 1
+  },
+  "3367": {
+    "naziv": "D.M.PIZAMA 12-14 70309             ",
+    "prodajna_cena": 2010,
+    "lager": 1
+  },
+  "3376": {
+    "naziv": "D.M.PIZAMA 16 70318                ",
+    "prodajna_cena": 1870,
+    "lager": 1
+  },
+  "3399": {
+    "naziv": "ZENSKA PIDZAMA 208061",
+    "prodajna_cena": 1950,
+    "lager": 1
+  },
+  "3414": {
+    "naziv": "M.PIZAMA K.RUKAV 1053              ",
+    "prodajna_cena": 1600,
+    "lager": 2
+  },
+  "3421": {
+    "naziv": "Z.PIZAMA                           ",
+    "prodajna_cena": 3260,
+    "lager": 1
+  },
+  "3427": {
+    "naziv": "Z.MAJICA 2276                      ",
+    "prodajna_cena": 820,
+    "lager": 1
+  },
+  "3430": {
+    "naziv": "Z.GACE LIKTA W BUNT 453            ",
+    "prodajna_cena": 310,
+    "lager": 8
+  },
+  "3432": {
+    "naziv": "Z.GACE LIKRA ANA 423               ",
+    "prodajna_cena": 275,
+    "lager": 5
+  },
+  "3433": {
+    "naziv": "Z.GACE LIKRA MARA 427              ",
+    "prodajna_cena": 280,
+    "lager": 10
+  },
+  "3478": {
+    "naziv": "IZVOR PIZAMA 666 8-12              ",
+    "prodajna_cena": 960,
+    "lager": 1
+  },
+  "3479": {
+    "naziv": "Posteljina dupla                   ",
+    "prodajna_cena": 3430,
+    "lager": 6
+  },
+  "3506": {
+    "naziv": "D.Z.PIZAMA DIS 2 7916              ",
+    "prodajna_cena": 1500,
+    "lager": 1
+  },
+  "3507": {
+    "naziv": "D.Z.PIZAMA DIS 4-6 7916            ",
+    "prodajna_cena": 1680,
+    "lager": 2
+  },
+  "3534": {
+    "naziv": "Z.LETNJA PIZAMA 2649               ",
+    "prodajna_cena": 1400,
+    "lager": 2
+  },
+  "3562": {
+    "naziv": "haljina lorena                     ",
+    "prodajna_cena": 1420,
+    "lager": 2
+  },
+  "3565": {
+    "naziv": "ZENSKE PIDZAME K.R.",
+    "prodajna_cena": 1300,
+    "lager": 3
+  },
+  "3608": {
+    "naziv": "M.PIZAMA                           ",
+    "prodajna_cena": 2300,
+    "lager": 1
+  },
+  "3624": {
+    "naziv": "D.M.BOX 3/1 16                     ",
+    "prodajna_cena": 920,
+    "lager": 2
+  },
+  "3625": {
+    "naziv": "M.PIZAMA 70126",
+    "prodajna_cena": 1610,
+    "lager": 1
+  },
+  "3648": {
+    "naziv": "Z.DONJI DEO 85201                  ",
+    "prodajna_cena": 1280,
+    "lager": 7
+  },
+  "3667": {
+    "naziv": "m.sortc                            ",
+    "prodajna_cena": 1500,
+    "lager": 9
+  },
+  "3675": {
+    "naziv": "ZENSKI SLIP 200050",
+    "prodajna_cena": 165,
+    "lager": 1
+  },
+  "3697": {
+    "naziv": "Z.SPAVACICA INES 739               ",
+    "prodajna_cena": 1280,
+    "lager": 3
+  },
+  "3718": {
+    "naziv": "Z.PANTALONE L3201                  ",
+    "prodajna_cena": 1600,
+    "lager": 3
+  },
+  "3761": {
+    "naziv": "ZENSKI SLIP 5784",
+    "prodajna_cena": 335,
+    "lager": 1
+  },
+  "3796": {
+    "naziv": "D.M.PIZAMA 4-6 7923                ",
+    "prodajna_cena": 1260,
+    "lager": 2
+  },
+  "3808": {
+    "naziv": "Z.HALJINA 87203                    ",
+    "prodajna_cena": 1250,
+    "lager": 2
+  },
+  "3809": {
+    "naziv": "Z.TUNIKA 83204                     ",
+    "prodajna_cena": 840,
+    "lager": 3
+  },
+  "3838": {
+    "naziv": "Z.PIZAMA 1043                      ",
+    "prodajna_cena": 2220,
+    "lager": 1
+  },
+  "3840": {
+    "naziv": "Z.PIZAMA 70203                     ",
+    "prodajna_cena": 2640,
+    "lager": 1
+  },
+  "3844": {
+    "naziv": "Z.PIZAMA 32P102                    ",
+    "prodajna_cena": 2850,
+    "lager": 3
+  },
+  "3846": {
+    "naziv": "Z.MAJICA 32N101                    ",
+    "prodajna_cena": 830,
+    "lager": 1
+  },
+  "3863": {
+    "naziv": "D.M.PIZAMA 33P101 4-6              ",
+    "prodajna_cena": 920,
+    "lager": 3
+  },
+  "3902": {
+    "naziv": "Z.BADE MANTIL 32W101               ",
+    "prodajna_cena": 2990,
+    "lager": 1
+  },
+  "3919": {
+    "naziv": "d.z.pizame",
+    "prodajna_cena": 1690,
+    "lager": 1
+  },
+  "3929": {
+    "naziv": "DECIJA M.PIDZAMA V308019",
+    "prodajna_cena": 1140,
+    "lager": 1
+  },
+  "3944": {
+    "naziv": "Z.PIZAMA 2686                      ",
+    "prodajna_cena": 1350,
+    "lager": 3
+  },
+  "3949": {
+    "naziv": "M.PIDZAMA 11P102                   ",
+    "prodajna_cena": 1120,
+    "lager": 1
+  },
+  "3979": {
+    "naziv": "D.Z.TUNIKA 83404 16                ",
+    "prodajna_cena": 2660,
+    "lager": 3
+  },
+  "4002": {
+    "naziv": "D.M.PIZAMA 70324 16                ",
+    "prodajna_cena": 1700,
+    "lager": 1
+  },
+  "4018": {
+    "naziv": "D.M.PIZAMA 63P101 8-10             ",
+    "prodajna_cena": 1890,
+    "lager": 4
+  },
+  "4021": {
+    "naziv": "D.Z.PIZAMA 64P101 4-6              ",
+    "prodajna_cena": 1890,
+    "lager": 1
+  },
+  "4031": {
+    "naziv": "Z.PANTALONE T 8240                 ",
+    "prodajna_cena": 1680,
+    "lager": 3
+  },
+  "4059": {
+    "naziv": "M.PIZAMA 70102                     ",
+    "prodajna_cena": 2470,
+    "lager": 10
+  },
+  "4095": {
+    "naziv": "Z.MAJICA VENERA 698",
+    "prodajna_cena": 445,
+    "lager": 1
+  },
+  "4105": {
+    "naziv": "D.Z.SLIP 3/1 T0402 2-6             ",
+    "prodajna_cena": 940,
+    "lager": 4
+  },
+  "4106": {
+    "naziv": "D.Z.SLIP 3/1 T0402 12-14           ",
+    "prodajna_cena": 970,
+    "lager": 4
+  },
+  "4107": {
+    "naziv": "D.Z.SLIP 3/1 T0402 16              ",
+    "prodajna_cena": 950,
+    "lager": 1
+  },
+  "4116": {
+    "naziv": "PIC.PIZ.INT.12-14                  ",
+    "prodajna_cena": 1390,
+    "lager": 1
+  },
+  "4117": {
+    "naziv": "Z.SPAVACICA 32X102                 ",
+    "prodajna_cena": 1590,
+    "lager": 1
+  },
+  "4120": {
+    "naziv": "Z.MAJICA 32A102                    ",
+    "prodajna_cena": 655,
+    "lager": 1
+  },
+  "4130": {
+    "naziv": "Z.SPAVACICA 42X101                 ",
+    "prodajna_cena": 1370,
+    "lager": 1
+  },
+  "4138": {
+    "naziv": "M.PIZAMA 31P102                    ",
+    "prodajna_cena": 2430,
+    "lager": 1
+  },
+  "4140": {
+    "naziv": "Z.PIZAMA 12P101                    ",
+    "prodajna_cena": 2790,
+    "lager": 10
+  },
+  "4169": {
+    "naziv": "Z.BADE MANTIL 89202                ",
+    "prodajna_cena": 1930,
+    "lager": 4
+  },
+  "4181": {
+    "naziv": "ZENSKI B.MANTIL 216025",
+    "prodajna_cena": 1330,
+    "lager": 1
+  },
+  "4182": {
+    "naziv": "ZENSKI B.MANTIL 216026",
+    "prodajna_cena": 1240,
+    "lager": 2
+  },
+  "4192": {
+    "naziv": "D.M.PIZAMA 23P101 10-14            ",
+    "prodajna_cena": 1320,
+    "lager": 1
+  },
+  "4195": {
+    "naziv": "D.Z.PIZAMA 14P102 4-8",
+    "prodajna_cena": 1050,
+    "lager": 1
+  },
+  "4196": {
+    "naziv": "D.Z.PIZAMA 14P103 10-14            ",
+    "prodajna_cena": 1780,
+    "lager": 1
+  },
+  "4213": {
+    "naziv": "Z.MAJICA 12M101                    ",
+    "prodajna_cena": 1080,
+    "lager": 3
+  },
+  "4215": {
+    "naziv": "Z.SPAVACICA 12X103                 ",
+    "prodajna_cena": 1950,
+    "lager": 1
+  },
+  "4216": {
+    "naziv": "Z.BADE MANTIL 12W101               ",
+    "prodajna_cena": 3340,
+    "lager": 2
+  },
+  "4219": {
+    "naziv": "Z.SPAVACICA 12X102                 ",
+    "prodajna_cena": 940,
+    "lager": 1
+  },
+  "4220": {
+    "naziv": "Z.PIZAMA 22P103                    ",
+    "prodajna_cena": 2640,
+    "lager": 1
+  },
+  "4221": {
+    "naziv": "Z.SPAVACICA 22X101                 ",
+    "prodajna_cena": 1880,
+    "lager": 3
+  },
+  "4240": {
+    "naziv": "ZENSKI B.MANTIL 216025",
+    "prodajna_cena": 1340,
+    "lager": 1
+  },
+  "4241": {
+    "naziv": "Z.BADE MANTIL 216032",
+    "prodajna_cena": 1620,
+    "lager": 2
+  },
+  "4249": {
+    "naziv": "BLUBELL GACICE",
+    "prodajna_cena": 3350,
+    "lager": 1
+  },
+  "4277": {
+    "naziv": "D.Z.SPAVACICA 71409 2-6",
+    "prodajna_cena": 870,
+    "lager": 1
+  },
+  "4297": {
+    "naziv": "Z.LETNJA PIZAMA 2528               ",
+    "prodajna_cena": 1310,
+    "lager": 2
+  },
+  "4317": {
+    "naziv": "Z.PANTALONE CVOR 3/4               ",
+    "prodajna_cena": 1850,
+    "lager": 3
+  },
+  "4333": {
+    "naziv": "D.Z.PIZAMA 70438 12-14             ",
+    "prodajna_cena": 2320,
+    "lager": 1
+  },
+  "4408": {
+    "naziv": "D.M.PIZAMA K.R.370 8-10            ",
+    "prodajna_cena": 1510,
+    "lager": 1
+  },
+  "4488": {
+    "naziv": "M.PIZAMA 11P101                    ",
+    "prodajna_cena": 2780,
+    "lager": 1
+  },
+  "4505": {
+    "naziv": "Z.SPAVACICA 32X103                 ",
+    "prodajna_cena": 1790,
+    "lager": 2
+  },
+  "4523": {
+    "naziv": "Z.PIZAMA 2025                      ",
+    "prodajna_cena": 1950,
+    "lager": 1
+  },
+  "4532": {
+    "naziv": "M.PIDZAMA D.DEO 117020             ",
+    "prodajna_cena": 1300,
+    "lager": 6
+  },
+  "4546": {
+    "naziv": "PIC.PIZ.INT.ST 6-10                ",
+    "prodajna_cena": 1230,
+    "lager": 2
+  },
+  "4561": {
+    "naziv": "D.M.PIZAMA 70323 8-10              ",
+    "prodajna_cena": 1550,
+    "lager": 1
+  },
+  "4571": {
+    "naziv": "M.PIZAMA 70146                     ",
+    "prodajna_cena": 1590,
+    "lager": 2
+  },
+  "4581": {
+    "naziv": "D.M.PIZAMA 2902 8-10               ",
+    "prodajna_cena": 1520,
+    "lager": 2
+  },
+  "4590": {
+    "naziv": "D.M.PIZAMA 16 70314                ",
+    "prodajna_cena": 2090,
+    "lager": 1
+  },
+  "4599": {
+    "naziv": "Z.ROLKA 84203",
+    "prodajna_cena": 880,
+    "lager": 2
+  },
+  "4619": {
+    "naziv": "MUSKI D. DEO PIZ.                  ",
+    "prodajna_cena": 1970,
+    "lager": 1
+  },
+  "4621": {
+    "naziv": "M.PIZAMA EMILIO 293                ",
+    "prodajna_cena": 1050,
+    "lager": 1
+  },
+  "4628": {
+    "naziv": "Z.PIZAMA 2700                      ",
+    "prodajna_cena": 2770,
+    "lager": 4
+  },
+  "4634": {
+    "naziv": "Z.PIDZAMA D.DEO 217024             ",
+    "prodajna_cena": 1050,
+    "lager": 4
+  },
+  "4667": {
+    "naziv": "D.Z.MAJICA 4-8 44A101              ",
+    "prodajna_cena": 390,
+    "lager": 1
+  },
+  "4672": {
+    "naziv": "D.Z.PIZAMA 10-14 44P101            ",
+    "prodajna_cena": 1510,
+    "lager": 1
+  },
+  "4674": {
+    "naziv": "D.M.PIZAMA 16 43P101               ",
+    "prodajna_cena": 1650,
+    "lager": 1
+  },
+  "4706": {
+    "naziv": "M.PIZAMA 70143                     ",
+    "prodajna_cena": 2500,
+    "lager": 1
+  },
+  "4723": {
+    "naziv": "PIC.PIZ.INT.STAM.2 4               ",
+    "prodajna_cena": 1070,
+    "lager": 3
+  },
+  "4724": {
+    "naziv": "M.PIZAMA 70135                     ",
+    "prodajna_cena": 2740,
+    "lager": 4
+  },
+  "4725": {
+    "naziv": "ZENSKI BODI L5202",
+    "prodajna_cena": 820,
+    "lager": 3
+  },
+  "4752": {
+    "naziv": "Z.PIZAMA 2030                      ",
+    "prodajna_cena": 1810,
+    "lager": 1
+  },
+  "4779": {
+    "naziv": "M.PIZAMA 70146                     ",
+    "prodajna_cena": 1980,
+    "lager": 2
+  },
+  "4841": {
+    "naziv": "D.M.PIDZAMA 10-14 13P101           ",
+    "prodajna_cena": 1120,
+    "lager": 5
+  },
+  "4842": {
+    "naziv": "HALJINA 8327                       ",
+    "prodajna_cena": 950,
+    "lager": 1
+  },
+  "4937": {
+    "naziv": "Z.MAJICA KIMI",
+    "prodajna_cena": 560,
+    "lager": 2
+  },
+  "4973": {
+    "naziv": "ZENSKA SPAVACICA 205066            ",
+    "prodajna_cena": 1160,
+    "lager": 2
+  },
+  "4981": {
+    "naziv": "Z.MAJICA 2000039",
+    "prodajna_cena": 760,
+    "lager": 1
+  },
+  "4982": {
+    "naziv": "ZENSKA MAJICA 2000044",
+    "prodajna_cena": 760,
+    "lager": 1
+  },
+  "5025": {
+    "naziv": "Z.DZEMPER                          ",
+    "prodajna_cena": 1310,
+    "lager": 3
+  },
+  "5063": {
+    "naziv": "D.M.BOX 4-8 13B104                 ",
+    "prodajna_cena": 740,
+    "lager": 1
+  },
+  "5065": {
+    "naziv": "D.Z.PIZAMA 14P101 4-8",
+    "prodajna_cena": 1470,
+    "lager": 1
+  },
+  "5091": {
+    "naziv": "Z.PIZAMA 70277                     ",
+    "prodajna_cena": 2560,
+    "lager": 2
+  },
+  "5094": {
+    "naziv": "D.Z.PIZAMA 10-14 34P101            ",
+    "prodajna_cena": 2280,
+    "lager": 2
+  },
+  "5096": {
+    "naziv": "D.M.PIZAMA 10-14 33P102            ",
+    "prodajna_cena": 820,
+    "lager": 1
+  },
+  "5106": {
+    "naziv": "Z.PIZAMA 2030                      ",
+    "prodajna_cena": 2320,
+    "lager": 1
+  },
+  "5119": {
+    "naziv": "D.Z.PIZAMA                         ",
+    "prodajna_cena": 1080,
+    "lager": 2
+  },
+  "5123": {
+    "naziv": "D.M.PIZAMA MARK 6-8                ",
+    "prodajna_cena": 690,
+    "lager": 2
+  },
+  "5130": {
+    "naziv": "Z.PIDZAMA D.DEO 217026",
+    "prodajna_cena": 995,
+    "lager": 1
+  },
+  "5142": {
+    "naziv": "D.Z.PIZAMA 2070 4-6                ",
+    "prodajna_cena": 1790,
+    "lager": 3
+  },
+  "5145": {
+    "naziv": "Z.PIZAMA 2078                      ",
+    "prodajna_cena": 2340,
+    "lager": 1
+  },
+  "5154": {
+    "naziv": "Z.MAJICA KEROLAJN 1005             ",
+    "prodajna_cena": 595,
+    "lager": 1
+  },
+  "5162": {
+    "naziv": "D.M.PIZAMA 4-8 33P103              ",
+    "prodajna_cena": 1170,
+    "lager": 1
+  },
+  "5178": {
+    "naziv": "ZENSKI B.MANTIL 216037             ",
+    "prodajna_cena": 1860,
+    "lager": 1
+  },
+  "5204": {
+    "naziv": "M.PIZAMA KOCKA 253                 ",
+    "prodajna_cena": 2390,
+    "lager": 18
+  },
+  "5222": {
+    "naziv": "Z.TRENERKA D.DEO 8224              ",
+    "prodajna_cena": 1430,
+    "lager": 2
+  },
+  "5225": {
+    "naziv": "Z.SLIP 2200                        ",
+    "prodajna_cena": 255,
+    "lager": 7
+  },
+  "5233": {
+    "naziv": "ZENSKA MAJICA 203093",
+    "prodajna_cena": 1045,
+    "lager": 1
+  },
+  "5249": {
+    "naziv": "D.M.PIZAMA 4-8 53P101              ",
+    "prodajna_cena": 1420,
+    "lager": 1
+  },
+  "5258": {
+    "naziv": "D.Z.PIZAMA 10-14 54P101            ",
+    "prodajna_cena": 1990,
+    "lager": 1
+  },
+  "5266": {
+    "naziv": "Z.PIZAMA 2844                      ",
+    "prodajna_cena": 2290,
+    "lager": 4
+  },
+  "5278": {
+    "naziv": "D.PIZAMA 12-14 121                 ",
+    "prodajna_cena": 1280,
+    "lager": 1
+  },
+  "5305": {
+    "naziv": "D.Z.PIZAMA 10-14 34P103            ",
+    "prodajna_cena": 1970,
+    "lager": 2
+  },
+  "5311": {
+    "naziv": "M.PIZAMA 70158                     ",
+    "prodajna_cena": 2380,
+    "lager": 1
+  },
+  "5319": {
+    "naziv": "D.M.PIZAMA 2-10 70314              ",
+    "prodajna_cena": 1390,
+    "lager": 1
+  },
+  "5345": {
+    "naziv": "Z.MAJICA 2-14 64192 631495 65093 64",
+    "prodajna_cena": 1170,
+    "lager": 1
+  },
+  "5364": {
+    "naziv": "Z.DONJI DEO 4264                   ",
+    "prodajna_cena": 730,
+    "lager": 1
+  },
+  "5606": {
+    "naziv": "PANTALONE D-R 8225                 ",
+    "prodajna_cena": 1090,
+    "lager": 2
+  },
+  "5607": {
+    "naziv": "Z.HELANKA 204010",
+    "prodajna_cena": 1140,
+    "lager": 1
+  },
+  "5622": {
+    "naziv": "Z.PIZAMA 12-14 68268               ",
+    "prodajna_cena": 1990,
+    "lager": 1
+  },
+  "5623": {
+    "naziv": "Z.PIZAMA 2228                      ",
+    "prodajna_cena": 2480,
+    "lager": 4
+  },
+  "5650": {
+    "naziv": "d.m.box                            ",
+    "prodajna_cena": 860,
+    "lager": 1
+  },
+  "5665": {
+    "naziv": "d.m.box                            ",
+    "prodajna_cena": 880,
+    "lager": 3
+  },
+  "5679": {
+    "naziv": "ZENSKE GACE 76207                  ",
+    "prodajna_cena": 360,
+    "lager": 6
+  },
+  "5680": {
+    "naziv": "Z.HALJINA 4314                     ",
+    "prodajna_cena": 2450,
+    "lager": 3
+  },
+  "5688": {
+    "naziv": "Z.PIZAMA 3/4 2032                  ",
+    "prodajna_cena": 1850,
+    "lager": 1
+  },
+  "5689": {
+    "naziv": "ZENSKA MAJICA 70 TIJANA",
+    "prodajna_cena": 550,
+    "lager": 1
+  },
+  "5691": {
+    "naziv": "Z.MAJICA LEJLA",
+    "prodajna_cena": 625,
+    "lager": 2
+  },
+  "5736": {
+    "naziv": "D.Z.PIDZAMA 14P104 4-8",
+    "prodajna_cena": 1180,
+    "lager": 1
+  },
+  "5831": {
+    "naziv": "D.M.PIZAMA 4-8 23P101              ",
+    "prodajna_cena": 1100,
+    "lager": 3
+  },
+  "5849": {
+    "naziv": "LOTOR BD KEN 10-14",
+    "prodajna_cena": 930,
+    "lager": 1
+  },
+  "5869": {
+    "naziv": "Z.MAJICA AIDA DEZEN",
+    "prodajna_cena": 520,
+    "lager": 1
+  },
+  "5870": {
+    "naziv": "Z.PIZAMA 208096                    ",
+    "prodajna_cena": 2260,
+    "lager": 12
+  },
+  "5878": {
+    "naziv": "Z.SLIP GLORIJA 3303                ",
+    "prodajna_cena": 560,
+    "lager": 3
+  },
+  "5883": {
+    "naziv": "M.PIZAMA 31P102                    ",
+    "prodajna_cena": 3200,
+    "lager": 1
+  },
+  "5915": {
+    "naziv": "Z.PIZAMA 255                       ",
+    "prodajna_cena": 2650,
+    "lager": 9
+  },
+  "5926": {
+    "naziv": "Z.HELANKE 1148                     ",
+    "prodajna_cena": 1190,
+    "lager": 2
+  },
+  "5928": {
+    "naziv": "z. haljina",
+    "prodajna_cena": 2200,
+    "lager": 2
+  },
+  "5930": {
+    "naziv": "Z.HALJINA 4367                     ",
+    "prodajna_cena": 1330,
+    "lager": 1
+  },
+  "5943": {
+    "naziv": "Z.DONJI DEO 73214",
+    "prodajna_cena": 1450,
+    "lager": 1
+  },
+  "5970": {
+    "naziv": "D.M.PIZAMA 10-14 92387",
+    "prodajna_cena": 1185,
+    "lager": 1
+  },
+  "5974": {
+    "naziv": "Z.DONJI DEO 1405                   ",
+    "prodajna_cena": 780,
+    "lager": 4
+  },
+  "5991": {
+    "naziv": "Z.ROLKA 4196                       ",
+    "prodajna_cena": 940,
+    "lager": 1
+  },
+  "5992": {
+    "naziv": "Z.MAJICA 4133                      ",
+    "prodajna_cena": 660,
+    "lager": 1
+  },
+  "5998": {
+    "naziv": "Z.MAJICA 4266                      ",
+    "prodajna_cena": 380,
+    "lager": 1
+  },
+  "6002": {
+    "naziv": "Z.HALJINA 4008                     ",
+    "prodajna_cena": 2280,
+    "lager": 1
+  },
+  "6004": {
+    "naziv": "Z.SAKO 4203                        ",
+    "prodajna_cena": 950,
+    "lager": 4
+  },
+  "6008": {
+    "naziv": "D.Z.PIZAMA 12-16 70449             ",
+    "prodajna_cena": 1400,
+    "lager": 1
+  },
+  "6019": {
+    "naziv": "MUSKA PIDZAMA 108057 108058        ",
+    "prodajna_cena": 1885,
+    "lager": 1
+  },
+  "6038": {
+    "naziv": "M.PIZAMA 70152                     ",
+    "prodajna_cena": 2100,
+    "lager": 1
+  },
+  "6077": {
+    "naziv": "D.Z.PIZAMA 10-14 V408025           ",
+    "prodajna_cena": 1990,
+    "lager": 1
+  },
+  "6080": {
+    "naziv": "D.M.PIZAMA 10-14 4051              ",
+    "prodajna_cena": 1440,
+    "lager": 1
+  },
+  "6086": {
+    "naziv": "D.Z.D DEO",
+    "prodajna_cena": 680,
+    "lager": 1
+  }
+}

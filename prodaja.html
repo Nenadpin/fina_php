@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prodaja proizvoda</title>
+    <link rel="stylesheet" href="./css/index.css" />
+  </head>
+  <body>
+    <div class="nav-header"><h2>PRODAJA PROIZVODA na dan:</h2><input id="orderDate" type="date"/></div>
+    <div id="operation" class="prod-list">
+      <div class="promet">
+      <input
+        id="prodId"
+        type="text"
+        placeholder="id..."
+      ></input>
+      <input
+        id="prodName"
+        type="text"
+        placeholder="naziv..."
+      ></input>
+      <input
+        id="prodPrice"
+        type="text"
+        placeholder="cena..."
+      ></input>
+      <input
+        id="prodQty"
+        type="text"
+        placeholder="kom"
+      ></input>
+    </div>
+      <pre id="list"></pre>
+      <button id="orderSubmit" class="block-btn">Gotovo</button>
+      <button id="popis" class="block-btn">POPIS gotov - snimi!</button>
+      <button id="ucitaj" class="block-btn">UCITAJ</button>
+      <hr/>
+      <p> Ukupna vrednost prodate robe: <span id="total"></span> din</p>
+    </div>
+    <script src="./js/modules.js"></script>
+    <script src="./js/prodaja.js"></script>
+  </body>
+</html>

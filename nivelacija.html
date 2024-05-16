@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nivelacija proizvoda</title>
+    <link rel="stylesheet" href="./css/index.css" />
+  </head>
+  <body>
+    <div class="nav-header"><h2>NIVELACIJA PROIZVODA na dan:</h2><input id="orderDate" type="date"/></div>
+    <div id="operation" class="prod-list">
+      <div class="promet">
+      <input
+        id="prodId"
+        type="text"
+        placeholder="id..."
+      ></input>
+      <input
+        id="prodName"
+        type="text"
+        placeholder="naziv..."
+      ></input>
+      <input
+      id="prodKol"
+      type="text"
+      placeholder="kol...">
+      </input>
+      <input
+        id="prodPrice"
+        type="text"
+        placeholder="stara"
+      ></input>
+      <input
+        id="prodNewPrice"
+        type="text"
+        placeholder="nova"
+      ></input>
+      
+    </div>
+      <pre id="list"></pre>
+      <button id="orderSubmit" class="block-btn">Gotovo</button>
+      <hr/>
+      <p> Ukupna razlika u ceni: <span id="total"></span> din</p>
+    </div>
+    <script src="./js/modules.js"></script>
+    <script src="./js/nivelacija.js"></script>
+  </body>
+</html>
