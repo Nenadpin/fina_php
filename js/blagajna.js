@@ -5,7 +5,7 @@ const details = document.getElementById("listDetails");
 const listaObaveza=document.getElementById('obaveze')
 document.getElementById('correctOrder').style.display='none'
 document.getElementById('blagajna').style.display='block'
-document.getElementById('correctOrder').innerText='Zaduzi fakturu!'
+document.getElementById('correctOrder').innerText='Zaduzi!'
 
 let dataSupp=''
 let obaveze = [];
@@ -31,7 +31,7 @@ const start = async ()=>{
     });
    for (let supp in suppliers) {
         const newItem = document.createElement("li");
-        newItem.textContent = `${supp} - stanje: ${suppliers[supp].stanje.toFixed(2)} din`;
+        newItem.textContent = supp
         lista.appendChild(newItem);
       };
     obaveze.sort((x,y)=>y.datum-x.datum)
@@ -45,7 +45,7 @@ const start = async ()=>{
 start()
 
 lista.addEventListener("click", (e) => {
-    dataSupp=(e.target.textContent.split("-")[0]).trim()
+    dataSupp=e.target.textContent.trim()
     if(suppliers[dataSupp].promet.length){
       document.getElementById('correctOrder').style.display='block'
       document.getElementById('extra').style.display='block'
@@ -60,17 +60,18 @@ lista.addEventListener("click", (e) => {
 
   listaObaveza.addEventListener("click", async(e) => {
     const data=parseInt(e.target.textContent.split(" ")[0])
-    await paySupp(data)
-
+    const valuta=e.target.textContent.substring(5,16).trim()
+    const suppName=e.target.textContent.substring(18,34).trim()
+    const iznos = prompt(`Iznos koji se placa dobavljacu ${suppName} za fakturu od: ${valuta}?`);
+    if(Boolean(iznos)) await paySupp(data,iznos)
   });
 
-  const paySupp=async(data)=>{
-    const iznos = prompt(`Iznos koji se placa dobavljacu za obavezu br: ${data}?`);
+  const paySupp=async(data,iznos)=>{
     const formData = {
       id:data,
       iznos: parseFloat(iznos),
     };
-    if (Boolean(formData.iznos)){
+
     try {
       const response = await fetch("./includes/pay.php", {
         method: "POST",
@@ -87,7 +88,6 @@ lista.addEventListener("click", (e) => {
     } catch (error) {
       alert(error.message);
     }
-  }
   }
 
   const buySupp=async()=>{
